@@ -1,0 +1,63 @@
+.material-symbols-outlined {
+  display: flex;
+  align-items: center;
+}
+.title {
+  display: flex;
+  align-self: center;
+  font-size: 25px;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(236, 110, 71);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.travel {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.img {
+  height: 200px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading,
+.location,
+.describe {
+  margin: 0;
+  padding: 0;
+}
+.describe {
+  font-size: 30px;
+}
+.dates {
+  margin: 0px;
+  font-size: 15px;
+  color: grey;
+}
+.about {
+  font-size: 20px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+#click {
+  padding-left: 15cm;
+}

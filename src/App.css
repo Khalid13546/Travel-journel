@@ -1,0 +1,10 @@
+.material-symbols-outlined {
+  display: flex;
+  align-items: center;
+}
+.title {
+  display: flex;
+  align-self: center;
+  padding-right: 5cm;
+  font: red;
+}
